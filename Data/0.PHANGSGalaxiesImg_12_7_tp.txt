@@ -174,4 +174,4 @@
 
 /data/tycho/0/leroy.42/reduction/alma/phangs-alma/derived/ngc7743/ngc7743_12m+7m+tp_co21_broad_mom0.fits
 
-/data/tycho/0/leroy.42/reduction/alma/phangs-alma/derived/ngc7793/ngc7793+7m+tp_co21_broad_mom0.fits
+/data/tycho/0/leroy.42/reduction/alma/phangs-alma/derived/ngc7793/ngc7793_7m+tp_co21_broad_mom0.fits
