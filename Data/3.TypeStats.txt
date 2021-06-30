@@ -1,0 +1,8 @@
+\begin{table*}
+\begin{tabular}{cc}
+Types & Percent \\
+Type II & 62% \\
+Type Ia & 25% \\
+Type Ib/c & 13% \\
+\end{tabular}
+\end{table*}
