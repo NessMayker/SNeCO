@@ -1,0 +1,2 @@
+# CDFnondetectionIbc, ynondetectionIbc, CDFnondetectionIbc_mgsd_ca, ynondetectionIbc_mgsd_ca, CDFnondetectionIbc_mgsd_mda, ynondetectionIbc_mgsd_mda  
+3.8532328605651855 0.14285714285714285 25.78701991301316 0.14285714285714285 18.120337510002404 0.14285714285714285
