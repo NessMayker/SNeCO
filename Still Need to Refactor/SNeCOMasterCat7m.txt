@@ -1,1 +1,0 @@
-#Galaxy,Supernova,Ra,Dec,xCoord,yCoord,Type,numSNe,Intensity7m,IntensityErr7m,EW(7m),beamSize

@@ -1,1 +1,0 @@
-#Galaxy,    Value,    Distance,    Run,     randX,     randY
